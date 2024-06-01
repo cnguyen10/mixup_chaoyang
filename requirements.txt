@@ -1,0 +1,12 @@
+chex==0.1.86
+dm_pix==0.4.2
+flax==0.8.4
+h5py==3.11.0
+jax==0.4.28
+mlflow==2.13.1
+mlflow_skinny==2.13.1
+mlx_data==0.0.2
+optax==0.2.2
+orbax==0.1.9
+tensorflow_probability==0.24.0
+tqdm==4.66.2
